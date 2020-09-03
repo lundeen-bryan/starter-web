@@ -10,3 +10,7 @@ Voluptate elit irure eiusmod sint consectetur incididunt consectetur. Anim tempo
 
 Sample website with plenty of files for demos
 
+## Deployment
+
+## How to Contribute
+
