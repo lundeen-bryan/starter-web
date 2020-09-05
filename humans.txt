@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Bryan Lundeen bigbry2k3@gmail.com
+    
 # THANKS
 
     <name>
